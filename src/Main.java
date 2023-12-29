@@ -7,10 +7,6 @@ public class Main {
 
         System.out.println("Hello and welcome!");
 
-        public static void mostafa(){
-
-        }
-
     }
 }
 
